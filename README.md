@@ -67,10 +67,7 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════╗
-║  🎖️  CVE Discoveries:           [REDACTED]   ║
-║  💰  Bug Bounties:               [REDACTED]   ║
-║  🏅  CTF Wins:                   [REDACTED]   ║
-║  📜  Certifications:             [REDACTED]   ║
+║  📜  Certifications:                  1       ║
 ╚═══════════════════════════════════════════════╝
 ```
 
