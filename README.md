@@ -2,7 +2,7 @@
 
 # 💀 Welcome to the Matrix 💀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+ACCESS+GRANTED...;Cybersecurity+AI Engineer;Penetration+Tester+%7C+Red+Team+Operator;Bug+Hunter+%7C+Security+Researcher;The+only+way+to+do+great+work+is...;...to+love+what+you+do" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+ACCESS+GRANTED...;Cybersecurity+and+AI%20Engineer;Penetration+Tester+%7C+Red+Team+Operator;Bug+Hunter+%7C+Security+Researcher;The+only+way+to+do+great+work+is...;...to+love+what+you+do%22%20alt=%22Typing%20SVG" />
 
 </div>
 
