@@ -74,7 +74,6 @@
 ╚═══════════════════════════════════════════════╝
 ```
 
-![trophy](https://v0-skynoxk.vercel.app)
 
 </div>
 
@@ -111,7 +110,7 @@
 
 ### 💀 "In a world of locked doors, the person with the key is king. And honey, I've got a skeleton key." 💀
 
-![Visitor Count](https://profile-counter.glitch.me/Skynoxk/count.svg)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=ACCESS%20TERMINATED&fontSize=30&fontColor=fff&animation=twinkling"/>
 
