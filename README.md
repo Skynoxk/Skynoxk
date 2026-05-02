@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 សួស្ដីសមមិត្តទាំងអស់គ្នា 💀
+#  សួស្ដីសមមិត្តទាំងអស់គ្នា 
 
 
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### "In a world of locked doors, the person with the key is king. And honey, I've got a skeleton key." 
+### "Nothing special here4" 
 
 
 
