@@ -1,8 +1,8 @@
 <div align="center">
 
-# Σκυνοξκ
+# Skynoxk
 
-*Χαχαχα*
+I am just a Normal developer !!!
 
 </div>
 
@@ -10,22 +10,15 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Skynoxk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="Στατιστικά GitHub"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skynoxk&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" alt="Σειρά Συνεισφορών"/>
 
 </div>
 
 ---
 
-## Περί Εμού
-
-Είμαι επίσης προγραμματιστής, ο οποίος δημιουργεί τυχαία εργαλεία προς όφελος των ανθρώπων.
-
----
-
-## Δεξιότητες
-
-Μηχανική Τεχνητής Νοημοσύνης | Δοκιμαστής διείσδυσης 
+## Skills
+**Programming & script**: C++, C, Python, Java, Javascript, html, css, SQL, Shellscript, GDscript.
 
 ---
 
